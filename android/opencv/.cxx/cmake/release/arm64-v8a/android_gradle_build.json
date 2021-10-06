@@ -1,0 +1,39 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "C:\\Users\\jorco\\OneDrive\\Bureau\\PokeApp\\android\\opencv\\libcxx_helper\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\SDK_Android_Studio\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\jorco\\OneDrive\\Bureau\\PokeApp\\android\\opencv\\.cxx\\cmake\\release\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\SDK_Android_Studio\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\jorco\\OneDrive\\Bureau\\PokeApp\\android\\opencv\\.cxx\\cmake\\release\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "opencv_jni_shared-Release-arm64-v8a": {
+      "buildCommandComponents": [
+        "D:\\SDK_Android_Studio\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\jorco\\OneDrive\\Bureau\\PokeApp\\android\\opencv\\.cxx\\cmake\\release\\arm64-v8a",
+        "opencv_jni_shared"
+      ],
+      "buildType": "release",
+      "abi": "arm64-v8a",
+      "artifactName": "opencv_jni_shared",
+      "output": "C:\\Users\\jorco\\OneDrive\\Bureau\\PokeApp\\android\\opencv\\.cxx\\cmake\\release\\arm64-v8a\\libopencv_jni_shared.a"
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

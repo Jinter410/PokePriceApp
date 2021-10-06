@@ -1,0 +1,7 @@
+Executable : D:\SDK_Android_Studio\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\jorco\OneDrive\Bureau\PokeApp\android\opencv\.cxx\cmake\debug\x86_64
+opencv_jni_shared
+jvmArgs : 
+

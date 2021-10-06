@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "C:\\Users\\jorco\\OneDrive\\Bureau\\PokeApp\\android\\opencv\\libcxx_helper\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\SDK_Android_Studio\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\jorco\\OneDrive\\Bureau\\PokeApp\\android\\opencv\\.cxx\\cmake\\release\\armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\SDK_Android_Studio\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\jorco\\OneDrive\\Bureau\\PokeApp\\android\\opencv\\.cxx\\cmake\\release\\armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "opencv_jni_shared-Release-armeabi-v7a": {
+      "artifactName": "opencv_jni_shared",
+      "buildCommandComponents": [
+        "D:\\SDK_Android_Studio\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\jorco\\OneDrive\\Bureau\\PokeApp\\android\\opencv\\.cxx\\cmake\\release\\armeabi-v7a",
+        "opencv_jni_shared"
+      ],
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\jorco\\OneDrive\\Bureau\\PokeApp\\android\\opencv\\.cxx\\cmake\\release\\armeabi-v7a\\libopencv_jni_shared.a",
+      "runtimeFiles": []
+    }
+  }
+}
